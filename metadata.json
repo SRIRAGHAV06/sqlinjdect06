@@ -1,0 +1,5 @@
+{
+  "name": "SQL-SHIELD",
+  "description": "An advanced SQL Injection detection and analysis platform powered by Gemini models to identify, explain, and mitigate database security threats.",
+  "requestFramePermissions": []
+}
